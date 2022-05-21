@@ -3,66 +3,77 @@
 		"id": 1,
 		"title": "OvelapImage",
 		"content": "effect",
-		"record": "2022-04-26"
+		"record": "2022-04-26",
+		"image": "https://eovhdnjawm1.github.io/db/img/effect/Overlap_1.gif"
 	},
 	{
 		"id": 2,
 		"title": "VideoText",
 		"content": "effect",
-		"price": "2022-04-27"
+		"record": "2022-04-27",
+		"image": "https://eovhdnjawm1.github.io/db/img/effect/videoText.gif"
 	},
 	{
 		"id": 3,
 		"title": "LoadingBar",
 		"content": "effect",
-		"price": "2022-04-28"
+		"record": "2022-04-28",
+		"image": "https://eovhdnjawm1.github.io/db/img/effect/Loading_1.gif"
 	},
 	{
 		"id": 4,
 		"title": "LinkHover",
 		"content": "effect",
-		"price": "2022-04-29"
+		"record": "2022-04-29",
+		"image": "https://eovhdnjawm1.github.io/db/img/effect/LinkHover.gif"
 	},
 	{
 		"id": 5,
 		"title": "ImageColorUp",
 		"content": "effect",
-		"price": "2022-04-29"
+		"record": "2022-04-29",
+		"image": "https://eovhdnjawm1.github.io/db/img/effect/ImageColorUp.gif"
 	},
 	{
 		"id": 6,
 		"title": "ChangeFigure",
 		"content": "effect",
-		"price": "2022-05-03"
+		"record": "2022-05-03",
+		"image": "https://eovhdnjawm1.github.io/db/img/effect/Changefigure.gif"
 	},
 	{
 		"id": 7,
 		"title": "HoverCardAni",
 		"content": "effect",
-		"price": "2022-05-04"
+		"record": "2022-05-04",
+		"image": "https://eovhdnjawm1.github.io/db/img/effect/Hover_Card_Ani.gif"
 	},
 	{
 		"id": 8,
 		"title": "HoverEffect",
 		"content": "effect",
-		"price": "2022-05-06"
+		"record": "2022-05-06",
+		"image": "https://eovhdnjawm1.github.io/db/img/effect/HoverEffect.gif"
 	},
 	{
 		"id": 9,
 		"title": "GradientBox",
 		"content": "effect",
-		"price": "2022-05-08"
+		"record": "2022-05-08",
+		"image": "https://eovhdnjawm1.github.io/db/img/effect/GradientBox.gif"
 	},
 	{
 		"id": 10,
 		"title": "NeonSign",
 		"content": "effect",
-		"price": "2022-05-10"
+		"record": "2022-05-10",
+		"image": "https://eovhdnjawm1.github.io/db/img/effect/NeonSign.gif"
 	},
 	{
 		"id": 11,
 		"title": "TextEffect",
 		"content": "effect",
-		"price": "2022-05-18"
+		"record": "2022-05-18",
+		"image": "https://eovhdnjawm1.github.io/db/img/effect/TextEffect.gif"
 	}
 ]
