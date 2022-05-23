@@ -75,5 +75,12 @@
 		"content": "effect",
 		"record": "2022-05-18",
 		"image": "https://eovhdnjawm1.github.io/db/img/effect/TextEffect.gif"
+	},
+	{
+		"id": 12,
+		"title": "FocusBlurEffect",
+		"content": "effect",
+		"record": "2022-05-23",
+		"image": "https://eovhdnjawm1.github.io/db/img/effect/FocusBlurEffect.gif"
 	}
 ]
