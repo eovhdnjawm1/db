@@ -5,5 +5,12 @@
 		"content": "Nav",
 		"record": "2022-05-20",
 		"image": "https://eovhdnjawm1.github.io/db/img/nav/ResponsiveNavBar.gif"
+	},
+	{
+		"id": 2,
+		"title": "FoucsNavBar",
+		"content": "Nav",
+		"record": "2022-05-25",
+		"image": "https://eovhdnjawm1.github.io/db/img/nav/FoucsNavBar.gif"
 	}
 ]
