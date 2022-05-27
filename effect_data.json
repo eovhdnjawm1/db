@@ -82,5 +82,12 @@
 		"content": "effect",
 		"record": "2022-05-23",
 		"image": "https://eovhdnjawm1.github.io/db/img/effect/FocusBlurEffect.gif"
+	},
+	{
+		"id": 13,
+		"title": "NeonLoading",
+		"content": "effect",
+		"record": "2022-05-27",
+		"image": "https://eovhdnjawm1.github.io/db/img/effect/NeonLoading.gif"
 	}
 ]
