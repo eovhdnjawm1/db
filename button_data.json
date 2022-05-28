@@ -40,5 +40,12 @@
 		"content": "button",
 		"record": "2022-05-15",
 		"image": "https://eovhdnjawm1.github.io/db/img/button/PulseAnimation.gif"
+	},
+	{
+		"id": 7,
+		"title": "ShadowButton",
+		"content": "button",
+		"record": "2022-05-26",
+		"image": "https://eovhdnjawm1.github.io/db/img/button/ShadowButton.gif"
 	}
 ]
