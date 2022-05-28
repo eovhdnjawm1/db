@@ -16,35 +16,35 @@
 	{
 		"id": 3,
 		"title": "ButtonSkewAni",
-		"content": "button",
+		"content": "Button",
 		"record": "2022-05-05",
 		"image": "https://eovhdnjawm1.github.io/db/img/button/SkewButtonAni.gif"
 	},
 	{
 		"id": 4,
 		"title": "ButtonHoverAni",
-		"content": "button",
+		"content": "Button",
 		"record": "2022-05-07",
 		"image": "https://eovhdnjawm1.github.io/db/img/button/ButtonHoverAni.gif"
 	},
 	{
 		"id": 5,
 		"title": "ButtonChange",
-		"content": "button",
+		"content": "Button",
 		"record": "2022-05-09",
 		"image": "https://eovhdnjawm1.github.io/db/img/button/ChangeButton.gif"
 	},
 	{
 		"id": 6,
 		"title": "ButtonPulseAni",
-		"content": "button",
+		"content": "Button",
 		"record": "2022-05-15",
 		"image": "https://eovhdnjawm1.github.io/db/img/button/PulseAnimation.gif"
 	},
 	{
 		"id": 7,
 		"title": "ShadowButton",
-		"content": "button",
+		"content": "Button",
 		"record": "2022-05-26",
 		"image": "https://eovhdnjawm1.github.io/db/img/button/ShadowButton.gif"
 	}
