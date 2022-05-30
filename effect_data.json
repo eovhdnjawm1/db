@@ -89,5 +89,12 @@
 		"content": "Effect",
 		"record": "2022-05-27",
 		"image": "https://eovhdnjawm1.github.io/db/img/effect/NeonLoading.gif"
+	},
+	{
+		"id": 14,
+		"title": "BounceLoading",
+		"content": "Effect",
+		"record": "2022-05-30",
+		"image": "https://eovhdnjawm1.github.io/db/img/effect/BounceLoading.gif"
 	}
 ]
