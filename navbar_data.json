@@ -12,5 +12,12 @@
 		"content": "Nav",
 		"record": "2022-05-25",
 		"image": "https://eovhdnjawm1.github.io/db/img/nav/FoucsNavBar.gif"
+	},
+	{
+		"id": 3,
+		"title": "InteractionNavBar",
+		"content": "Nav",
+		"record": "2022-06-01",
+		"image": "https://eovhdnjawm1.github.io/db/img/nav/NavInteraction.gif"
 	}
 ]
