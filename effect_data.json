@@ -96,5 +96,12 @@
 		"content": "Effect",
 		"record": "2022-05-30",
 		"image": "https://eovhdnjawm1.github.io/db/img/effect/BounceLoading.gif"
+	},
+	{
+		"id": 15,
+		"title": "EffectClockIcon",
+		"content": "Effect",
+		"record": "2022-06-02",
+		"image": "https://eovhdnjawm1.github.io/db/img/effect/EffectClockIcon.gif"
 	}
 ]
