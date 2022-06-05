@@ -3,8 +3,8 @@
 		"id": 1,
 		"title": "최근 추가",
 		"content": "New",
-		"record": "2022-06-05",
-		"image": "https://eovhdnjawm1.github.io/db/img/effect/EffectVerticalLoading.gif"
+		"record": "2022-06-06",
+		"image": "https://eovhdnjawm1.github.io/db/img/effect/Rotate3D.gif"
 	},
 	{
 		"id": 2,
@@ -26,5 +26,12 @@
 		"content": "3D",
 		"record": "2022-05-14",
 		"image": "https://eovhdnjawm1.github.io/db/img/3d/NeonMovingButton.gif"
+	},
+	{
+		"id": 3,
+		"title": "Rotate3D",
+		"content": "3D",
+		"record": "2022-06-06",
+		"image": "https://eovhdnjawm1.github.io/db/img/3d/Rotate3D.gif"
 	}
 ]
