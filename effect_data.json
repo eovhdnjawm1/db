@@ -117,5 +117,12 @@
 		"content": "Effect",
 		"record": "2022-06-04",
 		"image": "https://eovhdnjawm1.github.io/db/img/effect/EffectSolar.gif"
+	},
+	{
+		"id": 17,
+		"title": "EffectVerticalLoading",
+		"content": "Effect",
+		"record": "2022-06-05",
+		"image": "https://eovhdnjawm1.github.io/db/img/effect/EffectVerticalLoading.gif"
 	}
 ]
