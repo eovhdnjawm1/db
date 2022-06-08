@@ -131,5 +131,12 @@
 		"content": "Effect",
 		"record": "2022-06-06",
 		"image": "https://eovhdnjawm1.github.io/db/img/effect/EffectRollup.gif"
+	},
+	{
+		"id": 19,
+		"title": "EffectBasketBall",
+		"content": "Effect",
+		"record": "2022-06-09",
+		"image": "https://eovhdnjawm1.github.io/db/img/effect/EffectBasketBall.gif"
 	}
 ]
