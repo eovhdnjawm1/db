@@ -138,5 +138,12 @@
 		"content": "Effect",
 		"record": "2022-06-09",
 		"image": "https://eovhdnjawm1.github.io/db/img/effect/EffectBasketBall.gif"
+	},
+	{
+		"id": 20,
+		"title": "EffectToolTip",
+		"content": "Effect",
+		"record": "2022-06-10",
+		"image": "https://eovhdnjawm1.github.io/db/img/effect/EffectToolTip.gif"
 	}
 ]
