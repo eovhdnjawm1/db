@@ -3,8 +3,8 @@
 		"id": 1,
 		"title": "최근 추가",
 		"content": "New",
-		"record": "2022-07-05",
-		"image": "https://eovhdnjawm1.github.io/db/img/button/ButtonArrow.gif"
+		"record": "2022-07-06",
+		"image": "https://eovhdnjawm1.github.io/db/img/3d/3DBird.gif"
 	},
 	{
 		"id": 2,
@@ -33,5 +33,12 @@
 		"content": "3D",
 		"record": "2022-06-06",
 		"image": "https://eovhdnjawm1.github.io/db/img/3d/Rotate3D.gif"
+	},
+	{
+		"id": 6,
+		"title": "Bird_3D",
+		"content": "3D",
+		"record": "2022-07-06",
+		"image": "https://eovhdnjawm1.github.io/db/img/3d/3DBird.gif"
 	}
 ]
