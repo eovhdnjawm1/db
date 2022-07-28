@@ -152,5 +152,12 @@
 		"content": "Effect",
 		"record": "2022-06-12",
 		"image": "https://eovhdnjawm1.github.io/db/img/effect/EffectImageDetails.gif"
+	},
+	{
+		"id": 22,
+		"title": "EffectTadpole",
+		"content": "Effect",
+		"record": "2022-07-28",
+		"image": "https://eovhdnjawm1.github.io/db/img/effect/EffectTadpole.gif"
 	}
 ]
