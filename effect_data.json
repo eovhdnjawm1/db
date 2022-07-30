@@ -159,5 +159,12 @@
 		"content": "Effect",
 		"record": "2022-07-28",
 		"image": "https://eovhdnjawm1.github.io/db/img/effect/EffectTadpole.gif"
+	},
+	{
+		"id": 23,
+		"title": "EffectWaveLoading",
+		"content": "Effect",
+		"record": "2022-07-30",
+		"image": "https://eovhdnjawm1.github.io/db/img/effect/EffectWaveLoading.gif"
 	}
 ]
